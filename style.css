@@ -35,7 +35,7 @@ body {
   margin-bottom: 30px;
   margin-right: auto;
   margin-left: auto;
-  width: 40%;
+  width: 45%;
   padding: 15px;
   background-color: #70A288;
   color: white;
@@ -49,8 +49,8 @@ body {
   width: 50%;
 }
 #map {
-  height: 280px;
-  width: 450px;
+  height: 300px;
+  width: 480px;
   margin-right: auto;
   margin-left: 230px;
 }
@@ -59,7 +59,7 @@ body {
   margin-left: 230px;
 }
 .dados {
-  margin-left: 103px;
+  margin-left: 160px;
 }
 #fim{
   background-color: #2962ff;
@@ -72,11 +72,11 @@ height: 115px;
 }
 .Meios{
 margin-right: auto;
-margin-left: 100px; 
+margin-left: 160px; 
 }
 .Local{
   margin-right: auto;
-  margin-left: 200px;
+  margin-left: 330px;
 }
 @media only screen and (max-device-width: 900px) {
 .Meios{  
